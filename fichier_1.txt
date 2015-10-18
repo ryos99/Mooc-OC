@@ -1,0 +1,6 @@
+To Do List:
+
+- Toolbox avec :
+	- les scripts de compatibilite IE et consort
+	- les prefixes
+	- etc...
